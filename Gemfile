@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
 gem 'github-pages'
-gem 'html-proofer'
+gem 'html-proofer', '>= 3.15.0'
 gem 'rack-contrib', '~> 1.1.0'
 gem 'rake'
